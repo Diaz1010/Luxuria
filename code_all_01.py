@@ -22,6 +22,14 @@ sheet = service.spreadsheets()
 MANYCHAT_API_BASE_URL = 'https://api.manychat.com/fb/subscriber/getInfo'
 MANYCHAT_API_TOKEN = '789813:e2fc3b624197aa859357b65219100151'
 
+# Variables Generales
+
+df = pd.read_csv('manychat_all_users_data.csv')
+
+
+#####################################################################################################
+
+
 def get_data_from_manychats(subscriber_id):
     url = f"{MANYCHAT_API_BASE_URL}?subscriber_id={subscriber_id}"
     headers = {
