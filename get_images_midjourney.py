@@ -44,7 +44,7 @@ def generate_image(prompt):
     return image_url
 
 # Uso del código
-prompt = "Cat fish super hero"
+prompt = "/imagine Lobo Estepario, poster advertisement, Ornate"
 try:
     image_url = generate_image(prompt)
     print(f"Imagen generada: {image_url}")
