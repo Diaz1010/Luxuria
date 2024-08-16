@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lyrical-mason-428305-g1",
+  "private_key_id": "937309622800e2e6717491a119394d19257c3117",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDKIA27nrdcw+LA\nNtSUW43vlBxx5VRQmCpHZVZocrejiG8JavSPWaJ6QTb/MnQoXcp2u2WSJhQG5eoQ\nKmdEiv07uypIydx19ZPGrkNP457R6feGJQTWi7DjH2/Ba/rtGxGVyhImi/DAiIEa\nbHO3c7zT4Dy1ev9Z3A50wcOJS7h4gXzjwVXds9HAmbANJchJQCB5VyZLb1gu/QZl\nrPX3gRlAzZdosjn+KrW6Pxl2ZuQaE+nb4BpnGXb1hNFvQbL31tOVufIRlPaSagJ1\nqybTXIjTD2Nga0/xF26XRAmh3/BC6HvOb5XHq25BVu/LGqThv+WgZ6GFgHTB+RIz\nJvc+m5x3AgMBAAECggEATMGqZWbq+/vZZqQLy0EPX/0vZiMwByEZ4R3/F9AEo8IC\nZKGsuKlR1bphP70xtkiTw837TupN7aau4a+woqtjaiTz9EtQAK2fDjKMFlD6tX1z\nhYoWUcEfjciY4Gt4kUUXwvnHNcMrzHmqCVZJBVAa050SgNpyEPZLuRQCBOfv6Dab\nQ3IG1V+yrVftylAvfo4X4AWo6LuOZrTHmX14D9QdGGOOUupTMEJF3iGxapWE0TbH\nx/XPlDPbvkrLgK4386y9IQPb0J1GJtg0gYmU7CFiu81UJ4iF6d/eHzh/40ty6E6W\nth0+QwpTj9xpcmkotW89yUBL0jk+hY1y2bdj5SDHLQKBgQDtJotAhixDr/UHBaNi\nelbCf2DDNgf13iYhkLMEE5J1p3gCCX/qTZeNegNJVREaqn6XCcz7VZUUOENDmy/H\nPrdzYLP1VOuhjCAuBIxK9Hua4jlyAD8GW23qu9f0j3WqO/5UPgTtJ+zjLvulv3Bt\nTguNh+yPIGCMihhq2JBvw8ikSwKBgQDaMNN/KHGWil1qgw2WrQm2ikiq8yqR9Dro\n0ft6HR9ErVRM94uTGu95sY6bWoMZVl2Oc/BT3Nd5R7bZxbaVE+MF5WMXFziU1Zbl\ncU9X/OlTEDahGQaryKIKyA1HEg/a4JPkv1kpuWsAigheSSEpTxXMnmhJ0TztZkYv\nfw+KhjrVBQKBgQCDJPeI/SnpXJryASozQVhNQset7GlGjE0l7rEwpeouaigxaDN2\nzOXsdPbwTLyitHpA6EiVDOTeQ6be8ijf1Ez63xVlrEqKEcWR7S3wHXdlVYlTA9PW\nniUQ1EQ+mD8HnxmsWIe85oFXuRmstUtlBu3YnLwzAkKiNZP/MjfdtrV0NQKBgQC6\nCV2bkxlemTVTZtCEQ5//g2K4V8NZVRuRfdDk6sXJYdx6D6tzT0kWwtzr+z3Csc/t\ncU9dwfP7FbmDbz/hVmaAlXhqrMLyrDcQBQ/43sz2pOFfdJ4qhFQdyzr++RiJsGiJ\nZtmYaN8iQ48lDUd4GFVm9T3Iit5fMI/xWW4f15l8HQKBgQDNmDepIJZmVXDKWwOJ\naBMigTqAW88Y/ijPsgimkZ2yKWxWqFFZFzTQ9CWR30FVLIc/Wd/yexQZfsOJK6wY\nJXaILPOlhff4LYreSTYqz37Iz6NKiA6OEkIu1q9vvQJZ7uKSi9HoX3+dUzmszez+\nNZ3mN059q+ZgKwAiM7wUX+bJ4A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-luxuria-sheets@lyrical-mason-428305-g1.iam.gserviceaccount.com",
+  "client_id": "108105695152410959835",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-luxuria-sheets%40lyrical-mason-428305-g1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
